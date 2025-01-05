@@ -1,3 +1,11 @@
+커서 나 GPT 프로젝트 사용시 아래와 같은 컨택스를 추가하여 개발 
+
+커서 > 설정 >  .cursorrules  파일에 아래와  같은 컨텍스트 추가 
+
+https://www.youtube.com/watch?v=CtLzkom7tgw&t=627s
+
+
+
 ## Next.js: Route Handler 우선 사용
 
 -   **모든 API 엔드포인트는 Route Handler를 사용하여 구현하세요.**
